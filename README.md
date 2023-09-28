@@ -1,7 +1,8 @@
-# gcal-images
+# Google Calendar Header Images
 
 Thanks to [Carlos Martins](http://www.internetbestsecrets.com/2019/09/google-calendar-event-images.html) at Internet's Best Secrets, a number of keywords were found that will link images to Google Calendar.    
 I wanted to make use of these calendar header icons in [KLWP](https://play.google.com/store/apps/details?id=org.kustom.wallpaper) so created this repository to track any images I find. 
+If anyone wishes to contribute feel free to open a PR if you find more images!
 
 <img src="https://github.com/pekempy/gcal-images/assets/22874875/596ed545-6d1c-4f54-b11d-7139d68e760e" width="250"/> <img src="https://github.com/pekempy/gcal-images/assets/22874875/736d8d5d-187b-4c20-8afd-26814ae3a749" width="250"/>
 <img src="https://github.com/pekempy/gcal-images/assets/22874875/59871ef9-0e9c-4eaf-acf9-40455e0c0adb" width="250"/> <img src="https://github.com/pekempy/gcal-images/assets/22874875/f67ad6d6-b555-4c18-a18f-c16f292bae5b" width="250"/> 
