@@ -16,7 +16,7 @@ If you're wanting to access the URL directly, the name of the image from [images
 For example, if I'm wanting to access the image for `theateropera.jpg` I would use the below URL:     
 `https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_theateropera.jpg`
 
-I checked ~130,000 words against the URL and downloaded any which worked so the `images` folder is a bit of a dictionary for what exists.     
+I checked ~130,000 words against the URL and downloaded any which worked so the [images](https://github.com/pekempy/gcal-images/tree/main/images) folder is a bit of a dictionary for what exists.     
 There may be more that weren't listed on the Internet's Best Secrets site either in the OP or in the comments, that are conjugations of words (e.g. `americanfootball`), but I've found and added as many as I've been able to.
 
 ## Setting up KLWP / KWGT
