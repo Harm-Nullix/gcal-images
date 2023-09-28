@@ -1,0 +1,64 @@
+##KUSTOMCLIP##
+{
+  "clip_version": 1,
+  "KUSTOM_FLOW": {
+    "FDS3SLf3": {
+      "id": "FDS3SLf3",
+      "name": "Map→Get Photo Ref",
+      "t": [
+        {
+          "id": "TTAltg8v",
+          "type": "T_FORMULA",
+          "params": {
+            "formula": "$gv(place_id)$"
+          }
+        }
+      ],
+      "a": [
+        {
+          "id": "TAvK6CHJ",
+          "type": "A_WGET",
+          "params": {
+            "ignore_ssl_errors": "1",
+            "headers": "Accept: application/json",
+            "uri": "https://maps.googleapis.com/maps/api/place/details/json?place_id\u003d$gv(place_id)$\u0026key\u003d$gv(gglAPI)$"
+          }
+        },
+        {
+          "id": "TAsv259o",
+          "type": "A_LOCAL",
+          "params": {
+            "store_mode": "FILE",
+            "local_var": "pd",
+            "fail_if_empty": "1"
+          }
+        },
+        {
+          "id": "TAAXnlgB",
+          "type": "A_FORMULA",
+          "params": {
+            "formula": "$wg(lv(pd), json, \".result.photos[0].photo_reference\")$"
+          }
+        },
+        {
+          "id": "TANgALkm",
+          "type": "A_LOCAL",
+          "params": {
+            "store_mode": "TEXT",
+            "fail_if_empty": "1",
+            "local_var": "tmp"
+          }
+        },
+        {
+          "id": "TAjXTqm8",
+          "type": "A_GLOBAL",
+          "params": {
+            "store_mode": "TEXT",
+            "global": "photoref"
+          }
+        }
+      ]
+    }
+  }
+}
+##KUSTOMCLIP##
