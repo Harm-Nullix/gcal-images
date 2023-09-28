@@ -10,7 +10,7 @@ If anyone wishes to contribute feel free to open a PR if you find more images!
 
 
 ## How to use them
-If you're wanting to access the URL directly, the name of the image from `images` folder should be appended to the end of this URL:     
+If you're wanting to access the URL directly, the name of the image from [images](https://github.com/pekempy/gcal-images/tree/main/images) folder should be appended to the end of this URL:     
 `https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_{here}.jpg`
 
 For example, if I'm wanting to access the image for `theateropera.jpg` I would use the below URL:     
