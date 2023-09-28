@@ -1,0 +1,71 @@
+##KUSTOMCLIP##
+{
+  "clip_version": 1,
+  "KUSTOM_FLOW": {
+    "FDxikjtv": {
+      "id": "FDxikjtv",
+      "name": "Map→Get PlaceID",
+      "t": [
+        {
+          "id": "TTAltg8v",
+          "type": "T_FORMULA",
+          "params": {
+            "formula": "$ci(loc, 0)$"
+          }
+        },
+        {
+          "id": "TTlO78Ye",
+          "type": "T_CRON",
+          "params": {
+            "cron_string": "0 * * * *"
+          }
+        }
+      ],
+      "a": [
+        {
+          "id": "TAvK6CHJ",
+          "type": "A_WGET",
+          "params": {
+            "ignore_ssl_errors": "1",
+            "uri": "https://maps.googleapis.com/maps/api/geocode/json?address\u003d$tc(url, ci(loc,0))$\u0026key\u003d$gv(gglAPI)$",
+            "headers": "Accept: application/json"
+          }
+        },
+        {
+          "id": "TAsv259o",
+          "type": "A_LOCAL",
+          "params": {
+            "store_mode": "FILE",
+            "local_var": "place",
+            "fail_if_empty": "1"
+          }
+        },
+        {
+          "id": "TAAKbddo",
+          "type": "A_FORMULA",
+          "params": {
+            "formula": "$wg(lv(place), json, \".results[0].place_id\")$"
+          }
+        },
+        {
+          "id": "TAgLP7OC",
+          "type": "A_LOCAL",
+          "params": {
+            "store_mode": "TEXT",
+            "fail_if_empty": "1",
+            "local_var": "tmp"
+          }
+        },
+        {
+          "id": "TAjXTqm8",
+          "type": "A_GLOBAL",
+          "params": {
+            "store_mode": "TEXT",
+            "global": "place_id"
+          }
+        }
+      ]
+    }
+  }
+}
+##KUSTOMCLIP##
