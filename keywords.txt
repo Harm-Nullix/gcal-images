@@ -1,0 +1,88 @@
+americanfootball: nfl, american football, patriots, superbowl
+archery: archery
+art: painting, art workshop, sketching workshop, drawing workshop
+athleticsjumping: athletics, long jump, high jump
+babyshower: baby, baby shower
+backtoschool: school, back to school
+badminton: badminton
+baseball: baseball
+basketball: basketball
+bbq: bbq, barbecue, barbeque
+beer: beer, beers, Oktoberfest, October Fest, Octoberfest
+billiard: billiard
+birthday: birthday, bday
+bookclub: book club, reading, books, book
+bowling: bowling
+boxing: boxing
+breakfast: breakfast, breakfasts, brunch, brunches
+camping: camping
+carmaintenance: mot, car maintenance, tyres, exhaust, car
+chinesenewyear: chinese new year, chinese new years, chinese new year's
+chores: chores, jobs, household cleaning, house cleaning, spring clean, spring cleaning
+cinema: cinema, movies
+clean: cleaning, clean the house, clean the apartment, clean house, tidy up, vacuum clean, vacuum cleaning
+climbing: climbing, bouldering
+code: learn to code, coding time, hackathon, Rails Girls, Railsgirls, Hour of Code, Codecademy, Computer Science, Programming in Python, Web Programming, Programming in Java, Web Development
+coffee: coffee, coffees
+concert: concert, gig, concerts, gigs
+cooking: food, cooking, chef, cook
+cricket: cricket
+cycling: bicycle, cycling, bike, bicycles, bikes, Biking
+dancing: dance, dancing, dances
+datenight: date, date night, dating
+dentist: dentist, dentistry, dental
+dinner: dinner, dinners, restaurant, restaurants, Family meal
+drinks: cocktail, drinks, cocktails
+eating: eat, eating, food, snack
+equestrian: horse, horse riding
+fencing: fencing
+fieldhockey: field hockey
+golf: golf
+graduation: graduation
+gym: gym, workout, workouts
+haircut: haircut, hair
+halloween: halloween, helloween, hallowe'en, Allhalloween, All Hallows' Eve, All Saints' Eve
+handcraft: sewing, sew, knitting, knit, crochet, wool
+hiking: hiking, hike, hikes
+hobby: hobby, hobbies
+karate: martial arts, karate, mma, jiu jitsu
+kayaking: kayaking, kayak, canoe
+learninstrument: piano, singing, music Class, choir practice, flute, orchestra, oboe, clarinet, saxophone, cornett, trumpet, contrabass, cello, trombone, tuba, music ensemble, string quartett, guitar lesson, classical music, choir
+learnlanguage: French Course, German Course, English Course, …, French Class, German Class, English Class, Practice French, Practice German, Practice English
+lunch: lunch, lunches, luncheon
+manicure: manicure, pedicure, manicures, pedicures
+mardigras: mardi gras
+massage: massage, back rub, backrub, massages
+newyear: new year, new year's, new years
+oilchange: oil change, car service
+pingpong: ping pong, table tennis, ping-pong, pingpong
+planmyday: plan week, plan quarter, plan day, plan vacation, week planning, vacation planning
+pride: dyke march, christopher street day, gay parade, gay pride, gayglers, gaygler, lesbian march, lesbian parade, lesbian pride, euro pride, europride, world pride, worldpride, pride
+reachout: reach out to, write letter, send invitations
+read: reading, newspaper
+repair: fridge repair, handyman, electrician, DIY
+rowing: rowing, canoe
+rugbysevens: rugby, seven nations
+running: jog, jogging, running, jogs, runs
+sailing: sail, sailing, boat cruise, sailboat
+santa: Santa Claus, Father Christmas, santa, claus
+shooting: shooting, shooting range, target shooting
+skiing: skiing, ski, skis, Snowboarding, snowshoeing, snow shoe, snow boarding
+sleep: sleep, sleeping, nap, snooze, bedtime
+soccer: soccer, football
+swimming: swim, swimming, swims
+tennis: tennis
+thanksgiving: thanksgiving, turkey day
+theateropera: theater, theatre, opera, west end, broadway, drama, play
+triathlon: triathlon
+videogaming: gaming, video games, videogames, games, game
+violin: violin, violins
+volleyball: volleyball
+walk: going for a walk, walking
+walkingdog: dog, pooch, puppy
+wedding: wedding, wedding eve, wedding-eve party, weddings
+wrestling: wrestling
+xmas: christmas, xmas, x-mas
+xmasmeal: christmas dinner, christmas lunch, christmas brunch, christmas luncheon, xmas lunch, xmas luncheon, x-mas dinner, x-mas lunch, x-mas brunch, x-mas luncheon, christmas eve dinner, christmas eve lunch, christmas eve brunch, christmas eve luncheon, xmas eve dinner, xmas eve lunch, xmas eve brunch, xmas eve luncheon, x-mas eve dinner, x-mas eve lunch, x-mas eve brunch, x-mas eve luncheon
+xmasparty: christmas party, xmas party, x-mas party, christmas eve party, xmas eve party, x-mas eve party
+yoga: yoga
