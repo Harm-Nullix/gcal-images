@@ -29,3 +29,5 @@ To use this in KLWP for calendar widgets, all that's required is a single global
 https://ssl.gstatic.com/tmly/f8944938hffheth4ew890ht4i8/flairs/xxhdpi/img_$tc(reg, fl(0,0,0, tc(reg, tc(reg, gv(caltags), "\s*,\s*", "|"), "(.*):(.*)", "if(tc(low,ci(title, 0)) ~= ($2), $1 + @) +") + @), "@.*", "")$.jpg
 ```
 What this will do is parse out the gv caltags to find each tag, and as soon as it finds the **first** match, it will return the key for that, and fetch the image from the URl.
+
+If you also want to use the Location images from Google Maps, feel free to check out the [Wiki](https://github.com/pekempy/gcal-images/wiki) which has a guide on setting this up.
