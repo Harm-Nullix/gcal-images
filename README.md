@@ -1,6 +1,7 @@
 # Google Calendar Header Images
 
 Thanks to [Carlos Martins](http://www.internetbestsecrets.com/2019/09/google-calendar-event-images.html) at Internet's Best Secrets, a number of keywords were found that will link images to Google Calendar.    
+Also a huge thanks to Tored from the Kustom Discord server for all their help with getting this working.    
 I wanted to make use of these calendar header icons in [KLWP](https://play.google.com/store/apps/details?id=org.kustom.wallpaper) so created this repository to track any images I find. 
 If anyone wishes to contribute feel free to open a PR if you find more images!
 
