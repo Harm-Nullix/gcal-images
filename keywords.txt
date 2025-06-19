@@ -55,6 +55,7 @@ manicure: manicure, pedicure, manicures, pedicures
 mardigras: mardi gras
 massage: massage, back rub, backrub, massages
 newyear: new year, new year's, new years
+genericnewyear: genericnewyear
 oilchange: oil change, car service
 pingpong: ping pong, table tennis, ping-pong, pingpong
 planmyday: plan week, plan quarter, plan day, plan vacation, week planning, vacation planning
